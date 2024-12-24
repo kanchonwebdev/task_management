@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.arnobtrade.com/</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- About Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/about</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/contact</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Appointment Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/appointment</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Service Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/service</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Price Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/price</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Team Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/team</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Testimonial Page -->
+    <url>
+        <loc>https://www.arnobtrade.com/testimonial</loc>
+        <lastmod>2024-11-23</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+</urlset>
